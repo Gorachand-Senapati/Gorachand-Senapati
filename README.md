@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **gorachandsenapati92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
